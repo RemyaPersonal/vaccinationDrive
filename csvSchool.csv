@@ -1,4 +1,4 @@
-studentid,name,dob
-39,REMYA,11/3/1997
-40,ANAND,11/4/1997
-41,ACHU,11/5/1997
+studentid,name,dob,class
+39,REMYA,11/3/1997,2
+40,ANAND,11/4/1997,4
+41,ACHU,11/5/1997,6
